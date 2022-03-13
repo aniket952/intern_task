@@ -1,8 +1,5 @@
-# Frontend Mentor - E-commerce product page solution
+#  E-commerce product page 
 
-This is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
-### The challenge
 
 Users should be able to:
 
@@ -28,17 +25,5 @@ Mobile
   <img src="./images/mobile2.png" height="450">
 </p>
 
-### Links
 
-- Live Site URL: [Link](https://ecommerce-product-page-jonascavalcante.vercel.app)
 
-### Built with
-
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Styled Components](https://styled-components.com/) - For styles
-
-### Author
-
-- LinkedIn - [@jonascavalcante](https://www.linkedin.com/in/jonascavalcante)
-- Frontend Mentor - [@jonascavalcante](https://www.frontendmentor.io/profile/jonascavalcante)
